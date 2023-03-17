@@ -1,0 +1,334 @@
+.contact-us-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.contact-us-hero {
+  width: 100%;
+  height: 1030px;
+  display: flex;
+  padding: 48px;
+  position: relative;
+  min-height: 80vh;
+  align-items: flex-start;
+  padding-right: 48px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: white;
+}
+.contact-us-header {
+  width: 110%;
+  height: 244px;
+  display: flex;
+  max-width: 1500%;
+  margin-top: -50px;
+  align-items: center;
+  margin-left: -50px;
+  padding-top: 32px;
+  padding-left: 0px;
+  padding-bottom: 32px;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 100.00%,rgba(0, 0, 0, 0.3) 100.00%),linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1800w.jpeg");
+  background-position: center;
+}
+.contact-us-nav {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+}
+.contact-us-text {
+  color: rgb(0, 0, 0);
+}
+.contact-us-text01 {
+  color: white;
+}
+.contact-us-btn-group {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contact-us-burger-menu {
+  display: none;
+}
+.contact-us-icon {
+  width: 16px;
+  height: 16px;
+}
+.contact-us-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.contact-us-nav1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-us-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 48px;
+  justify-content: space-between;
+}
+.contact-us-image {
+  height: 2rem;
+}
+.contact-us-menu-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-us-icon02 {
+  width: 16px;
+  height: 16px;
+}
+.contact-us-icon04 {
+  width: 16px;
+  height: 16px;
+  margin-right: 32px;
+}
+.contact-us-icon06 {
+  width: 16px;
+  height: 16px;
+  margin-right: 32px;
+}
+.contact-us-icon08 {
+  width: 16px;
+  height: 16px;
+}
+.contact-us-navlink {
+  top: 48px;
+  right: 48px;
+  position: absolute;
+  align-self: flex-end;
+  font-family: Georgia;
+  border-color: #ff0000;
+  border-width: 2px;
+  text-decoration: none;
+  background-color: yellow;
+}
+.contact-us-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+}
+.contact-us-text03 {
+  top: 0px;
+  left: 0px;
+  width: auto;
+  position: absolute;
+  text-align: left;
+}
+.contact-us-text05 {
+  font-family: Georgia;
+  font-weight: 700;
+}
+.contact-us-text07 {
+  font-family: Georgia;
+}
+.contact-us-text09 {
+  font-family: Georgia;
+}
+.contact-us-text10 {
+  font-family: Georgia;
+  font-weight: 700;
+}
+.contact-us-text11 {
+  font-family: Georgia;
+}
+.contact-us-text12 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+.contact-us-text15 {
+  font-family: Georgia;
+}
+.contact-us-text16 {
+  font-family: Georgia;
+  font-weight: 700;
+}
+.contact-us-text17 {
+  font-family: Georgia;
+  font-weight: 700;
+}
+.contact-us-text18 {
+  font-family: Georgia;
+}
+.contact-us-text20 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+.contact-us-text22 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+@media(max-width: 991px) {
+  .contact-us-text05 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text07 {
+    font-family: Georgia;
+  }
+  .contact-us-text09 {
+    font-family: Georgia;
+  }
+  .contact-us-text10 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text11 {
+    font-family: Georgia;
+  }
+  .contact-us-text12 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .contact-us-text15 {
+    font-family: Georgia;
+  }
+  .contact-us-text16 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text17 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text18 {
+    font-family: Georgia;
+  }
+  .contact-us-text20 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .contact-us-text22 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+}
+@media(max-width: 767px) {
+  .contact-us-hero {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .contact-us-header {
+    width: 115%;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .contact-us-nav {
+    display: none;
+  }
+  .contact-us-btn-group {
+    display: none;
+  }
+  .contact-us-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media(max-width: 479px) {
+  .contact-us-hero {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .contact-us-header {
+    padding: var(--dl-space-space-unit);
+  }
+  .contact-us-text {
+    width: 289px;
+    text-align: center;
+  }
+  .contact-us-mobile-menu {
+    padding: 16px;
+  }
+  .contact-us-text04 {
+    font-family: Georgia;
+  }
+  .contact-us-text05 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text06 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text07 {
+    font-family: Georgia;
+  }
+  .contact-us-text08 {
+    font-family: Georgia;
+  }
+  .contact-us-text09 {
+    font-family: Georgia;
+  }
+  .contact-us-text10 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text11 {
+    font-family: Georgia;
+  }
+  .contact-us-text12 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .contact-us-text13 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .contact-us-text14 {
+    font-family: Georgia;
+  }
+  .contact-us-text15 {
+    font-family: Georgia;
+  }
+  .contact-us-text16 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text17 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .contact-us-text18 {
+    font-family: Georgia;
+  }
+  .contact-us-text19 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .contact-us-text20 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .contact-us-text21 {
+    color: var(--dl-color-gray-500);
+  }
+  .contact-us-text22 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+}

@@ -1,0 +1,714 @@
+.sponsors-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.sponsors-hero {
+  width: 100%;
+  height: 1030px;
+  display: flex;
+  padding: 48px;
+  position: relative;
+  min-height: 80vh;
+  align-items: flex-start;
+  padding-right: 48px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: white;
+}
+.sponsors-header {
+  width: 110%;
+  height: 244px;
+  display: flex;
+  max-width: 1500%;
+  margin-top: -50px;
+  align-items: center;
+  margin-left: -50px;
+  padding-top: 32px;
+  padding-left: 0px;
+  padding-bottom: 32px;
+  background-size: cover;
+  justify-content: space-between;
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 100.00%,rgba(0, 0, 0, 0.3) 100.00%),linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1700w.jpeg");
+  background-position: center;
+}
+.sponsors-nav {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+}
+.sponsors-text {
+  color: rgb(0, 0, 0);
+}
+.sponsors-text01 {
+  color: white;
+}
+.sponsors-btn-group {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sponsors-burger-menu {
+  display: none;
+}
+.sponsors-icon {
+  width: 16px;
+  height: 16px;
+}
+.sponsors-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.sponsors-nav1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sponsors-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 48px;
+  justify-content: space-between;
+}
+.sponsors-image {
+  height: 2rem;
+}
+.sponsors-menu-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sponsors-icon02 {
+  width: 16px;
+  height: 16px;
+}
+.sponsors-icon04 {
+  width: 16px;
+  height: 16px;
+  margin-right: 32px;
+}
+.sponsors-icon06 {
+  width: 16px;
+  height: 16px;
+  margin-right: 32px;
+}
+.sponsors-icon08 {
+  width: 16px;
+  height: 16px;
+}
+.sponsors-navlink {
+  top: 88.5%;
+  left: 48px;
+  width: 20%;
+  position: absolute;
+  text-align: center;
+  border-color: #ff0000;
+  border-width: 2px;
+  text-decoration: none;
+  background-color: yellow;
+}
+.sponsors-text03 {
+  top: 750px;
+  left: left;
+  right: 5%;
+  position: absolute;
+  border-color: var(--dl-color-primary-700);
+  border-width: 2px;
+}
+.sponsors-text04 {
+  color: var(--dl-color-primary-700);
+  font-weight: 700;
+}
+.sponsors-text05 {
+  color: var(--dl-color-primary-700);
+  font-weight: 700;
+}
+.sponsors-text12 {
+  top: 598px;
+  left: left;
+  right: 5%;
+  position: absolute;
+  border-color: gold;
+  border-width: 2px;
+  background-color: rgba(255, 215, 0, 0.16);
+}
+.sponsors-text13 {
+  color: gold;
+  font-weight: 700;
+}
+.sponsors-text14 {
+  color: gold;
+  font-weight: 700;
+}
+.sponsors-text21 {
+  top: 300px;
+  left: left;
+  right: 5%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  border-color: brown;
+  border-width: 2px;
+  background-color: rgba(165, 42, 42, 0.15);
+}
+.sponsors-text22 {
+  color: brown;
+  font-weight: 700;
+}
+.sponsors-text23 {
+  font-weight: 700;
+}
+.sponsors-text30 {
+  top: 450px;
+  left: left;
+  right: 5%;
+  position: absolute;
+  border-color: silver;
+  border-width: 2px;
+  background-color: rgba(192, 192, 192, 0.17);
+}
+.sponsors-text31 {
+  color: silver;
+  font-weight: 700;
+}
+.sponsors-text32 {
+  color: silver;
+  font-weight: 700;
+}
+.sponsors-navlink1 {
+  top: 48px;
+  right: 48px;
+  width: 13%;
+  position: absolute;
+  text-align: center;
+  font-family: Georgia;
+  border-color: #ff0000;
+  border-width: 2px;
+  text-decoration: none;
+  background-color: yellow;
+}
+.sponsors-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-self: flex-end;
+  align-items: center;
+  justify-content: flex-end;
+}
+.sponsors-text40 {
+  top: var(--dl-space-space-unit);
+  left: 0px;
+  width: 50%;
+  height: 400px;
+  position: absolute;
+  text-align: left;
+}
+.sponsors-text42 {
+  font-family: Georgia;
+  font-weight: 700;
+}
+.sponsors-text44 {
+  font-style: normal;
+  font-family: Georgia;
+  font-weight: 400;
+}
+.sponsors-text47 {
+  font-style: normal;
+  font-family: Georgia;
+  font-weight: 400;
+}
+.sponsors-text50 {
+  font-style: normal;
+  font-family: Georgia;
+  font-weight: 400;
+}
+.sponsors-text53 {
+  font-style: normal;
+  font-family: Georgia;
+  font-weight: 400;
+}
+.sponsors-text54 {
+  font-family: Georgia;
+}
+.sponsors-text59 {
+  font-style: normal;
+  font-family: Georgia;
+  font-weight: 700;
+}
+.sponsors-text61 {
+  font-style: normal;
+  font-family: Georgia;
+  font-weight: 700;
+}
+.sponsors-text63 {
+  color: brown;
+  font-weight: 700;
+}
+.sponsors-text65 {
+  font-family: Georgia;
+  font-weight: 400;
+}
+.sponsors-text67 {
+  font-family: Georgia;
+  font-weight: 400;
+}
+.sponsors-text74 {
+  left: 603px;
+  width: auto;
+  bottom: -132px;
+  position: absolute;
+  text-align: left;
+}
+.sponsors-text76 {
+  font-family: Georgia;
+}
+.sponsors-text78 {
+  top: 25%;
+  right: 13%;
+  position: absolute;
+  align-self: flex-end;
+  font-family: Georgia;
+  font-weight: 700;
+}
+.sponsors-navlink2 {
+  top: 83%;
+  left: 48px;
+  width: 20%;
+  position: absolute;
+  text-align: center;
+  border-color: #ff0000;
+  border-width: 2px;
+  text-decoration: none;
+  background-color: yellow;
+}
+.sponsors-text79 {
+  top: 78%;
+  left: 48px;
+  position: absolute;
+  align-self: flex-end;
+  font-family: Georgia;
+  font-weight: 700;
+}
+.sponsors-text80 {
+  top: 70%;
+  left: 15%;
+  position: absolute;
+  font-size: 14px;
+  align-self: flex-end;
+  font-family: Georgia;
+  font-weight: 700;
+}
+.sponsors-navlink3 {
+  top: 70%;
+  left: 48px;
+  width: 10%;
+  position: absolute;
+  align-self: flex-end;
+  text-align: center;
+  border-color: #ff0000;
+  border-width: 2px;
+  text-decoration: none;
+  background-color: yellow;
+}
+.sponsors-navlink4 {
+  top: 65%;
+  left: 48px;
+  width: 10%;
+  position: absolute;
+  align-self: flex-end;
+  text-align: center;
+  border-color: #ff0000;
+  border-width: 2px;
+  text-decoration: none;
+  background-color: yellow;
+}
+.sponsors-text87 {
+  top: 900px;
+  left: left;
+  right: 5%;
+  position: absolute;
+  align-self: flex-end;
+  border-color: var(--dl-color-primary-100);
+  border-width: 2px;
+}
+.sponsors-text88 {
+  color: var(--dl-color-primary-100);
+  font-weight: 700;
+}
+.sponsors-text89 {
+  color: var(--dl-color-primary-100);
+  font-weight: 700;
+}
+@media(max-width: 1200px) {
+  .sponsors-navlink {
+    top: 84%;
+    width: 30%;
+  }
+  .sponsors-text03 {
+    top: 145%;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+  }
+  .sponsors-text12 {
+    top: 130%;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+  }
+  .sponsors-text21 {
+    top: 100%;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+  }
+  .sponsors-text30 {
+    top: 115%;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+  }
+  .sponsors-text40 {
+    width: 100%;
+  }
+  .sponsors-text41 {
+    font-family: Georgia;
+  }
+  .sponsors-text42 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text43 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text44 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text45 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text46 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text47 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text48 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text49 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text50 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text51 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text52 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text53 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text54 {
+    font-family: Georgia;
+  }
+  .sponsors-text55 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text56 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text57 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text58 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text59 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text60 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text61 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text62 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text63 {
+    color: brown;
+    font-weight: 700;
+  }
+  .sponsors-text64 {
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text65 {
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text66 {
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text67 {
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text68 {
+    font-family: Georgia;
+    font-weight: 400;
+  }
+  .sponsors-text69 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text70 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text71 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text72 {
+    font-style: normal;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-text76 {
+    font-family: Georgia;
+  }
+  .sponsors-text78 {
+    top: 95%;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-navlink2 {
+    top: 79%;
+    width: 30%;
+  }
+  .sponsors-text79 {
+    top: 75%;
+  }
+  .sponsors-text80 {
+    top: 68%;
+    font-size: 14px;
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .sponsors-navlink3 {
+    top: 68%;
+  }
+  .sponsors-navlink4 {
+    top: 63%;
+  }
+  .sponsors-text87 {
+    top: 160%;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+  }
+}
+@media(max-width: 991px) {
+  .sponsors-navlink {
+    top: 88%;
+    width: 80%;
+  }
+  .sponsors-text40 {
+    top: 0px;
+  }
+  .sponsors-navlink2 {
+    top: 83%;
+    width: 80%;
+  }
+  .sponsors-text79 {
+    top: 78.5%;
+  }
+  .sponsors-text80 {
+    top: 72%;
+    left: 48px;
+  }
+  .sponsors-navlink3 {
+    top: 67%;
+    width: 80%;
+  }
+  .sponsors-navlink4 {
+    top: 62%;
+    width: 80%;
+  }
+}
+@media(max-width: 767px) {
+  .sponsors-hero {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .sponsors-header {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .sponsors-nav {
+    display: none;
+  }
+  .sponsors-btn-group {
+    display: none;
+  }
+  .sponsors-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sponsors-navlink {
+    top: 93%;
+  }
+  .sponsors-text03 {
+    top: 155%;
+  }
+  .sponsors-text12 {
+    top: 140%;
+  }
+  .sponsors-text21 {
+    top: 110%;
+  }
+  .sponsors-text30 {
+    top: 125%;
+  }
+  .sponsors-text78 {
+    top: 105%;
+  }
+  .sponsors-navlink2 {
+    top: 88%;
+  }
+  .sponsors-text79 {
+    top: 85%;
+    left: 48px;
+  }
+  .sponsors-text80 {
+    top: 80%;
+    left: 48px;
+  }
+  .sponsors-navlink3 {
+    top: 75%;
+    width: 80%;
+  }
+  .sponsors-navlink4 {
+    top: 70%;
+    width: 80%;
+  }
+  .sponsors-text87 {
+    top: 170%;
+  }
+}
+@media(max-width: 479px) {
+  .sponsors-hero {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .sponsors-header {
+    height: 20%;
+    padding: var(--dl-space-space-unit);
+    margin-left: -20px;
+  }
+  .sponsors-text {
+    width: 220px;
+    align-self: center;
+    text-align: center;
+  }
+  .sponsors-mobile-menu {
+    padding: 16px;
+  }
+  .sponsors-navlink {
+    top: 95%;
+    width: 80%;
+  }
+  .sponsors-navlink1 {
+    top: 48px;
+    right: 48px;
+    width: 84px;
+  }
+  .sponsors-navlink2 {
+    top: 90%;
+    width: 80%;
+  }
+  .sponsors-text79 {
+    left: 0px;
+  }
+  .sponsors-navlink3 {
+    width: 80%;
+  }
+  .sponsors-navlink4 {
+    width: 80%;
+  }
+}
