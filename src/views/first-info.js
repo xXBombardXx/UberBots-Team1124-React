@@ -162,11 +162,12 @@ const FIRSTInfo = (props) => {
             </span>
             <span>
               has grown to be one the largest robotics competitions in the
-              world. The program has over 500,000 students working on 22,600
-              robots with the assistance of over 68,000 mentors and 33,000
+              world. The program has over 679,000 students working on thousands
+              of robots with the assistance of over 100,000 mentors and 33,000
               volunteers from all disciplines such as engineering, fund raising,
               and team leadership. The program also expands beyond US borders to
-              over ten countries like Israel, Brazil, Japan, and even Australia.
+              over a hundred countries like Israel, Brazil, Japan, and even
+              Australia.
             </span>
             <br></br>
             <br className="firs-info-text24"></br>
@@ -267,15 +268,17 @@ const FIRSTInfo = (props) => {
               releases a challenge for FRC students as well as a rule book with
               very specific details concerning the size of the robot, details
               about game play, and more. Students then have six weeks to design,
-              build, and program their robots in order to be shipped by a
-              certain date. After ship date, students are not allowed to touch
-              their robot until competition, where they compete on an
-              international level. The winners of each of these regional events
-              move onto the Championship tournament in Houston, Texas. This
-              allows FRC to always been exciting, for no two games are ever the
-              same. Starting from the end of the Championship event, the FRC
-              Game Design Committee (GDC) starts working hard on the next game
-              so it&apos;s almost perfect by kickoff (there are always constant
+              build, and program their robots in order to be ready for the first
+              regional competition. The day before the competition, students
+              need to transport their robot along with some important equipment
+              to the competition site. The equipment is very important as the
+              robot is constantly being upgraded even in the middle of the
+              competition! The winners of each of these regional events move
+              onto the Championship tournament in Houston, Texas. This allows
+              FRC to always been exciting, for no two games are ever the same.
+              Starting from the end of the Championship event, the FRC Game
+              Design Committee (GDC) starts working hard on the next game so
+              it&apos;s almost perfect by kickoff (there are always constant
               updates being made, even between regional competitions).
             </span>
             <br></br>

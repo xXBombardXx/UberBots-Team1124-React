@@ -161,24 +161,12 @@
 .firs-info-text09 {
   color: var(--dl-color-primary-300);
 }
-.firs-info-text10 {
-  color: var(--dl-color-primary-300);
-}
 .firs-info-text11 {
   font-weight: 700;
 }
 .firs-info-text12 {
   font-style: italic;
   font-weight: 700;
-}
-.firs-info-text13 {
-  font-weight: 700;
-}
-.firs-info-text14 {
-  font-family: Georgia;
-}
-.firs-info-text16 {
-  font-family: Georgia;
 }
 .firs-info-text17 {
   font-style: italic;
@@ -188,12 +176,6 @@
 }
 .firs-info-text21 {
   font-style: italic;
-}
-.firs-info-text24 {
-  font-family: Georgia;
-}
-.firs-info-text26 {
-  font-family: Georgia;
 }
 .firs-info-text27 {
   font-style: italic;
@@ -238,6 +220,61 @@
     font-family: Georgia;
     text-decoration: none;
     background-color: yellow;
+  }
+  .firs-info-text09 {
+    color: var(--dl-color-primary-300);
+  }
+  .firs-info-text10 {
+    color: var(--dl-color-primary-300);
+  }
+  .firs-info-text11 {
+    font-weight: 700;
+  }
+  .firs-info-text12 {
+    font-style: italic;
+    font-weight: 700;
+  }
+  .firs-info-text13 {
+    font-weight: 700;
+  }
+  .firs-info-text14 {
+    font-family: Georgia;
+  }
+  .firs-info-text16 {
+    font-family: Georgia;
+  }
+  .firs-info-text17 {
+    font-style: italic;
+  }
+  .firs-info-text19 {
+    font-style: italic;
+  }
+  .firs-info-text21 {
+    font-style: italic;
+  }
+  .firs-info-text24 {
+    font-family: Georgia;
+  }
+  .firs-info-text26 {
+    font-family: Georgia;
+  }
+  .firs-info-text27 {
+    font-style: italic;
+  }
+  .firs-info-text29 {
+    font-style: italic;
+  }
+  .firs-info-text31 {
+    font-style: italic;
+  }
+  .firs-info-text33 {
+    font-style: italic;
+  }
+  .firs-info-text35 {
+    font-style: italic;
+  }
+  .firs-info-text37 {
+    font-style: italic;
   }
 }
 @media(max-width: 991px) {
