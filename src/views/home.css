@@ -69,11 +69,6 @@
 .home-link3 {
   text-decoration: none;
 }
-.home-icon {
-  width: 24px;
-  height: 24px;
-  display: none;
-}
 .home-thq-dropdown {
   cursor: pointer;
   display: none;
@@ -94,6 +89,10 @@
 }
 .home-dropdown-arrow {
   transition: 0.3s;
+}
+.home-icon {
+  width: 24px;
+  height: 24px;
 }
 .home-dropdown-list {
   left: 0%;
@@ -863,13 +862,29 @@
   .home-links-container {
     display: none;
   }
-  .home-icon {
-    width: 42px;
-    height: 30px;
-    display: flex;
-  }
   .home-thq-dropdown {
+    width: 30px;
+    height: 38px;
     display: inline-block;
+  }
+  .home-dropdown-toggle {
+    top: 2px;
+    left: 1px;
+    color: var(--dl-color-gray-black);
+    width: 27px;
+    height: 26px;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .home-icon {
+    right: -1px;
+    width: 27px;
+    bottom: -7px;
+    height: 30px;
+    position: absolute;
+    align-self: flex-start;
   }
   .home-dropdown-list {
     display: none;
@@ -900,7 +915,7 @@
   }
   .home-navlink04 {
     margin-top: var(--dl-space-space-unit);
-    margin-left: 0px;
+    margin-left: var(--dl-space-space-doubleunit);
     text-decoration: none;
   }
   .home-text05 {

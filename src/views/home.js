@@ -41,9 +41,6 @@ const Home = (props) => {
                 <br></br>
               </Link>
             </div>
-            <svg viewBox="0 0 1024 1024" className="home-icon">
-              <path d="M64 192h896v192h-896zM64 448h896v192h-896zM64 704h896v192h-896z"></path>
-            </svg>
             <div
               data-thq="thq-dropdown"
               className="home-thq-dropdown list-item"
@@ -56,6 +53,9 @@ const Home = (props) => {
                   data-thq="thq-dropdown-arrow"
                   className="home-dropdown-arrow"
                 ></div>
+                <svg viewBox="0 0 1024 1024" className="home-icon">
+                  <path d="M64 192h896v192h-896zM64 448h896v192h-896zM64 704h896v192h-896z"></path>
+                </svg>
               </div>
               <ul data-thq="thq-dropdown-list" className="home-dropdown-list">
                 <li data-thq="thq-dropdown" className="home-dropdown list-item">
