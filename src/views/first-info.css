@@ -329,12 +329,13 @@
     display: none;
   }
   .firs-info-image1 {
-    top: 140%;
-    left: 0px;
-    right: 0px;
+    top: 150%;
+    left: 43px;
     width: 80%;
-    height: 75%;
-    margin: auto;
+    bottom: -54px;
+    height: auto;
+    display: none;
+    position: absolute;
   }
   .firs-info-text07 {
     width: 100%;
@@ -387,8 +388,12 @@
     padding: 16px;
   }
   .firs-info-image1 {
-    top: 180%;
-    width: 100%;
+    top: 190%;
+    left: 20px;
+    width: 90%;
+    display: none;
+    align-items: flex-end;
+    justify-content: center;
   }
   .firs-info-navlink {
     width: 74px;

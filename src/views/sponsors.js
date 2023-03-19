@@ -71,7 +71,7 @@ const Sponsors = (props) => {
           Contact Us for Other Opportunities
         </Link>
         <span className="sponsors-text03">
-          <span className="sponsors-text04">PLATINUM ($1501 - $3000)</span>
+          <span className="sponsors-text04">PLATINUM ($2501- $4000)</span>
           <br className="sponsors-text05"></br>
           <br></br>
           <span>- Everything from GOLD</span>
@@ -81,7 +81,7 @@ const Sponsors = (props) => {
           <br></br>
         </span>
         <span className="sponsors-text12">
-          <span className="sponsors-text13">GOLD ($501 - $1500)</span>
+          <span className="sponsors-text13">GOLD ($1001- $2500)</span>
           <br className="sponsors-text14"></br>
           <br></br>
           <span>- Everything from SILVER</span>
@@ -91,7 +91,7 @@ const Sponsors = (props) => {
           <br></br>
         </span>
         <span className="sponsors-text21">
-          <span className="sponsors-text22">BRONZE ($1 - $150)</span>
+          <span className="sponsors-text22">BRONZE ($100 - $500)</span>
           <br className="sponsors-text23"></br>
           <br></br>
           <span>- Thank you letter from team</span>
@@ -101,7 +101,7 @@ const Sponsors = (props) => {
           <br></br>
         </span>
         <span className="sponsors-text30">
-          <span className="sponsors-text31">SILVER ($151 - $500)</span>
+          <span className="sponsors-text31">SILVER ($501 - $1000)</span>
           <br className="sponsors-text32"></br>
           <br></br>
           <span>- Everything from BRONZE</span>
@@ -212,7 +212,7 @@ const Sponsors = (props) => {
           </span>
         </Link>
         <span className="sponsors-text87">
-          <span className="sponsors-text88">DIAMOND ($3000 and above) </span>
+          <span className="sponsors-text88">DIAMOND ($4001 and above) </span>
           <br className="sponsors-text89"></br>
           <br></br>
           <span>- Everything from PLATINUM</span>
