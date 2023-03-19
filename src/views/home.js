@@ -353,7 +353,7 @@ const Home = (props) => {
       <div className="home-testimonial">
         <h1 className="home-text44">Our Sponsors</h1>
         <span className="home-text45">
-          Interstate Battery System of America, Inc.
+          Interstate Battery of Hartford, Inc.
         </span>
       </div>
       <div className="home-footer-container">
