@@ -1010,6 +1010,9 @@
   }
 }
 @media(max-width: 479px) {
+  .home-icon {
+    fill: black;
+  }
   .home-cta-btn {
     font-size: 16px;
     padding-left: var(--dl-space-space-doubleunit);

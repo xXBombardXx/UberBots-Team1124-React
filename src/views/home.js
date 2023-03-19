@@ -31,7 +31,7 @@ const Home = (props) => {
               </Link>
               <Link to="/sponsors" className="home-link1 Anchor">
                 <span>Spons</span>
-                <span>ors</span>
+                <span>or Us</span>
               </Link>
               <Link to="/donate" className="home-link2 Anchor">
                 Donate
@@ -373,7 +373,7 @@ const Home = (props) => {
             <svg viewBox="0 0 1024 1024" className="home-icon10">
               <path d="M512 854q140 0 241-101t101-241-101-241-241-101-241 101-101 241 101 241 241 101zM512 86q176 0 301 125t125 301-125 301-301 125-301-125-125-301 125-301 301-125zM506 390q-80 0-80 116v12q0 116 80 116 30 0 50-17t20-43h76q0 50-44 88-42 36-102 36-80 0-122-48t-42-132v-12q0-82 40-128 48-54 124-54 66 0 104 38 42 42 42 98h-76q0-14-6-26-10-20-14-24-20-20-50-20z"></path>
             </svg>
-            <span className="home-link8 Anchor">Copyright, 2021</span>
+            <span className="home-link8 Anchor">Copyright, 2023</span>
           </div>
         </div>
       </div>
