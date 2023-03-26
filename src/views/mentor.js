@@ -212,7 +212,7 @@ const Mentor = (props) => {
           <span className="mentor-text053">
             <br></br>
             <span className="mentor-text055">Important Team Information</span>
-            <br className="mentor-text056"></br>
+            <br></br>
             <br></br>
             <span>
               -
@@ -222,7 +222,7 @@ const Mentor = (props) => {
                 }}
               />
             </span>
-            <span className="mentor-text059">Off-season</span>
+            <span>Off-season</span>
             <span>
               :
               <span
@@ -247,7 +247,7 @@ const Mentor = (props) => {
             <span className="mentor-text064">
               October to January (can vary)
             </span>
-            <br className="mentor-text065"></br>
+            <br></br>
             <span className="mentor-text066">
               - Build season:
               <span
@@ -260,20 +260,20 @@ const Mentor = (props) => {
               January to April (potentially more if qualify for higher
               championships)
             </span>
-            <br className="mentor-text068"></br>
+            <br></br>
             <span className="mentor-text069">
               - Meeting Time (Build Season): 
             </span>
             <span className="mentor-text070">
               3pm - 5pm on weekdays and 9am - 3pm  on Saturdays (can vary)
             </span>
-            <br className="mentor-text071"></br>
+            <br></br>
             <span className="mentor-text072">- Meeting Time (Pre-season):</span>
             <span className="mentor-text073">
               {' '}
               3pm -4pm twice during the week 
             </span>
-            <br className="mentor-text074"></br>
+            <br></br>
             <span className="mentor-text075">
               - Meeting Time (Off-season):
               <span
@@ -285,7 +285,7 @@ const Mentor = (props) => {
             <span className="mentor-text076">
               3pm to 4pm once or twice during week
             </span>
-            <br className="mentor-text077"></br>
+            <br></br>
             <span className="mentor-text078">
               - Location:
               <span
@@ -295,27 +295,27 @@ const Mentor = (props) => {
               />
             </span>
             <span className="mentor-text079">Avon High School, CT</span>
-            <br className="mentor-text080"></br>
+            <br></br>
             <br></br>
             <span className="mentor-text082">Overall Requirements</span>
-            <br className="mentor-text083"></br>
-            <br className="mentor-text084"></br>
+            <br></br>
+            <br></br>
             <span className="mentor-text085">
               - Must pass Avon High School background check
             </span>
-            <br className="mentor-text086"></br>
+            <br></br>
             <span className="mentor-text087">
               - Must be at least 21 years of age
             </span>
-            <br className="mentor-text088"></br>
+            <br></br>
             <span className="mentor-text089">
               - Mentor does NOT have to meet 100% of the time (flexible)
             </span>
-            <br className="mentor-text090"></br>
-            <br className="mentor-text091"></br>
+            <br></br>
+            <br></br>
             <span className="mentor-text092">Specific Requirements</span>
-            <br className="mentor-text093"></br>
-            <br className="mentor-text094"></br>
+            <br></br>
+            <br></br>
             <span className="mentor-text095">
               - Engineering mentors (mechanical, electrical, and software) - 
               <span
@@ -327,8 +327,8 @@ const Mentor = (props) => {
             <span className="mentor-text096">
               Previous professional experience
             </span>
-            <br className="mentor-text097"></br>
-            <br className="mentor-text098"></br>
+            <br></br>
+            <br></br>
             <span className="mentor-text099">
               - Machine shop mentors (craftsmanship and power tools) -
               <span
@@ -340,8 +340,8 @@ const Mentor = (props) => {
             <span className="mentor-text100">
               Previous professional experience
             </span>
-            <br className="mentor-text101"></br>
-            <br className="mentor-text102"></br>
+            <br></br>
+            <br></br>
             <span className="mentor-text103">
               - Fundraising and marketing mentors -
               <span
@@ -353,8 +353,8 @@ const Mentor = (props) => {
             <span className="mentor-text104">
               Previous professional or unprofessional experience
             </span>
-            <br className="mentor-text105"></br>
-            <br className="mentor-text106"></br>
+            <br></br>
+            <br></br>
             <span className="mentor-text107">
               - Project manager mentors -
               <span
@@ -366,8 +366,8 @@ const Mentor = (props) => {
             <span className="mentor-text108">
               Previous professional experience
             </span>
-            <br className="mentor-text109"></br>
-            <br className="mentor-text110"></br>
+            <br></br>
+            <br></br>
             <span className="mentor-text111">
               <span
                 dangerouslySetInnerHTML={{
