@@ -162,7 +162,7 @@
 .sponsors-text019 {
   color: silver;
   font-weight: 700;
-  background-color: var(--dl-color-gray-white);
+  background-color: rgba(0, 0, 0, 0);
 }
 .sponsors-text024 {
   top: 300px;
@@ -206,7 +206,7 @@
 .sponsors-text038 {
   color: brown;
   font-weight: 700;
-  background-color: var(--dl-color-gray-white);
+  background-color: rgba(0, 0, 0, 0);
 }
 .sponsors-navlink1 {
   top: 48px;
