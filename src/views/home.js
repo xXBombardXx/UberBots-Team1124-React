@@ -28,7 +28,7 @@ const Home = (props) => {
         />
         <img
           alt="image"
-          src="/playground_assets/uberbots-200h.png"
+          src="/playground_assets/uberbots%20modern%20logo%20better%20size-200w.png"
           className="home-image1"
         />
         <div className="home-navbar">
