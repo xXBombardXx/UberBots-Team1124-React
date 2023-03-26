@@ -10,8 +10,16 @@ const ContactUs = (props) => {
   return (
     <div className="contact-us-container">
       <Helmet>
-        <title>Contact-Us - UberBots Team1124</title>
-        <meta property="og:title" content="Contact-Us - UberBots Team1124" />
+        <title>Contact-Us - The ÜberBots</title>
+        <meta
+          name="description"
+          content="The official website of team 1124, the ÜberBots"
+        />
+        <meta property="og:title" content="Contact-Us - The ÜberBots" />
+        <meta
+          property="og:description"
+          content="The official website of team 1124, the ÜberBots"
+        />
       </Helmet>
       <div className="contact-us-hero">
         <header data-role="Header" className="contact-us-header">

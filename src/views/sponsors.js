@@ -10,14 +10,22 @@ const Sponsors = (props) => {
   return (
     <div className="sponsors-container">
       <Helmet>
-        <title>Sponsors - UberBots Team1124</title>
-        <meta property="og:title" content="Sponsors - UberBots Team1124" />
+        <title>Sponsors - The ÜberBots</title>
+        <meta
+          name="description"
+          content="The official website of team 1124, the ÜberBots"
+        />
+        <meta property="og:title" content="Sponsors - The ÜberBots" />
+        <meta
+          property="og:description"
+          content="The official website of team 1124, the ÜberBots"
+        />
       </Helmet>
       <div className="sponsors-hero">
         <header data-role="Header" className="sponsors-header">
           <div className="sponsors-nav"></div>
           <h1 className="sponsors-text">
-            <span className="sponsors-text01">Sponsor Us</span>
+            <span className="sponsors-text001">Sponsor Us</span>
             <br></br>
           </h1>
           <div className="sponsors-btn-group"></div>
@@ -70,29 +78,46 @@ const Sponsors = (props) => {
         <Link to="/contact-us" className="sponsors-navlink button">
           Contact Us for Other Opportunities
         </Link>
-        <span className="sponsors-text03">
-          <span className="sponsors-text04">PLATINUM ($2501- $4000)</span>
-          <br className="sponsors-text05"></br>
+        <span className="sponsors-text003">
+          <span className="sponsors-text004">PLATINUM ($2500- $3999)</span>
+          <br className="sponsors-text005"></br>
           <br></br>
-          <span>- Everything from GOLD</span>
+          <span>
+            - Everything from
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+          <span className="sponsors-text008">GOLD</span>
           <br></br>
           <span>- Company name and logo on team banner</span>
           <br></br>
+          <span>- Company name and logo on team flag </span>
           <br></br>
         </span>
-        <span className="sponsors-text12">
-          <span className="sponsors-text13">GOLD ($1001- $2500)</span>
-          <br className="sponsors-text14"></br>
+        <span className="sponsors-text014">
+          <span className="sponsors-text015">GOLD ($1000- $2499)</span>
+          <br className="sponsors-text016"></br>
           <br></br>
-          <span>- Everything from SILVER</span>
+          <span>
+            - Everything from
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+          <span className="sponsors-text019">SILVER</span>
           <br></br>
           <span>- Company name and logo on team t-shirts</span>
           <br></br>
           <br></br>
         </span>
-        <span className="sponsors-text21">
-          <span className="sponsors-text22">BRONZE ($100 - $500)</span>
-          <br className="sponsors-text23"></br>
+        <span className="sponsors-text024">
+          <span className="sponsors-text025">BRONZE ($100 - $499)</span>
+          <br className="sponsors-text026"></br>
           <br></br>
           <span>- Thank you letter from team</span>
           <br></br>
@@ -100,13 +125,21 @@ const Sponsors = (props) => {
           <br></br>
           <br></br>
         </span>
-        <span className="sponsors-text30">
-          <span className="sponsors-text31">SILVER ($501 - $1000)</span>
-          <br className="sponsors-text32"></br>
+        <span className="sponsors-text033">
+          <span className="sponsors-text034">SILVER ($500 - $999)</span>
+          <br className="sponsors-text035"></br>
+          <br className="sponsors-text036"></br>
+          <span>
+            - Everything from
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+          <span className="sponsors-text038">BRONZE</span>
           <br></br>
-          <span>- Everything from BRONZE</span>
-          <br></br>
-          <span>- Shout-out on team social media</span>
+          <span>- Company name (no logo) on team t-shirts</span>
           <br></br>
           <span>- Company name and logo on website         </span>
           <br></br>
@@ -115,71 +148,63 @@ const Sponsors = (props) => {
           Back
         </Link>
         <div className="sponsors-container2">
-          <span className="sponsors-text40">
-            <br className="sponsors-text41"></br>
-            <span className="sponsors-text42">
+          <span className="sponsors-text044">
+            <br></br>
+            <span className="sponsors-text046">
               Why Sponsor?                                                     
                                                                                
                                                                                
-                                     
-              <span
-                dangerouslySetInnerHTML={{
-                  __html: ' ',
-                }}
-              />
+                                 
             </span>
-            <br className="sponsors-text43"></br>
-            <span className="sponsors-text44">
+            <br></br>
+            <span className="sponsors-text048">
               - Sponsorship money is tax deductible
             </span>
-            <br className="sponsors-text45"></br>
-            <br className="sponsors-text46"></br>
-            <span className="sponsors-text47">
+            <br></br>
+            <br></br>
+            <span className="sponsors-text051">
               - Advertisement (Shirts, banners, robots, website, etc.)
             </span>
-            <br className="sponsors-text48"></br>
-            <br className="sponsors-text49"></br>
-            <span className="sponsors-text50">
+            <br></br>
+            <br></br>
+            <span className="sponsors-text054">
               - Raise your profile with the next generation of engineers
               (internship opportunities)
             </span>
-            <br className="sponsors-text51"></br>
-            <br className="sponsors-text52"></br>
-            <span className="sponsors-text53">- Employees who mentor us </span>
-            <span className="sponsors-text54">
+            <br></br>
+            <br></br>
+            <span className="sponsors-text057">- Employees who mentor us </span>
+            <span className="sponsors-text058">
               gain valuable experience and enhance their professional skills
             </span>
-            <br className="sponsors-text55"></br>
-            <br className="sponsors-text56"></br>
-            <br className="sponsors-text57"></br>
-            <br className="sponsors-text58"></br>
-            <span className="sponsors-text59">Sponsorship Options</span>
-            <br className="sponsors-text60"></br>
-            <span className="sponsors-text61">
+            <br></br>
+            <br></br>
+            <br></br>
+            <span className="sponsors-text062">
                                                     
             </span>
-            <br className="sponsors-text62"></br>
-            <span className="sponsors-text63">
+            <br></br>
+            <span className="sponsors-text064">
                                                                  
             </span>
-            <br className="sponsors-text64"></br>
-            <span className="sponsors-text65">
+            <br></br>
+            <span className="sponsors-text066">
                                                      
             </span>
-            <br className="sponsors-text66"></br>
-            <span className="sponsors-text67">
+            <br></br>
+            <span className="sponsors-text068">
                                                        
             </span>
-            <br className="sponsors-text68"></br>
-            <br className="sponsors-text69"></br>
-            <br className="sponsors-text70"></br>
-            <br className="sponsors-text71"></br>
-            <br className="sponsors-text72"></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
             <br></br>
           </span>
-          <span className="sponsors-text74">
+          <span className="sponsors-text075">
             <br></br>
-            <span className="sponsors-text76">
+            <span className="sponsors-text077">
               <span
                 dangerouslySetInnerHTML={{
                   __html: ' ',
@@ -189,14 +214,15 @@ const Sponsors = (props) => {
             <br></br>
           </span>
         </div>
-        <span className="sponsors-text78">Sponsor Tiers</span>
+        <span className="sponsors-text079">Monetary Options</span>
+        <span className="sponsors-text080">Sponsor Tiers</span>
         <Link to="/mentor" className="sponsors-navlink2 button">
           Mentoring Details
         </Link>
-        <span className="sponsors-text79">
+        <span className="sponsors-text081">
           Other Options (Mentors, workspaces, etc.)
         </span>
-        <span className="sponsors-text80">
+        <span className="sponsors-text082">
           Item value will be used to determine sponsor tier*
         </span>
         <Link to="/donate" className="sponsors-navlink3 button">
@@ -211,14 +237,23 @@ const Sponsors = (props) => {
             <br></br>
           </span>
         </Link>
-        <span className="sponsors-text87">
-          <span className="sponsors-text88">DIAMOND ($4001 and above) </span>
-          <br className="sponsors-text89"></br>
+        <span className="sponsors-text089">
+          <span className="sponsors-text090">DIAMOND ($4000 and above) </span>
+          <br className="sponsors-text091"></br>
           <br></br>
-          <span>- Everything from PLATINUM</span>
+          <span>
+            - Everything from
+            <span
+              dangerouslySetInnerHTML={{
+                __html: ' ',
+              }}
+            />
+          </span>
+          <span className="sponsors-text094">PLATINUM</span>
           <br></br>
           <span>- Company logo and name on robot             </span>
           <br></br>
+          <span>- Company name announced before match</span>
           <br></br>
         </span>
       </div>

@@ -515,6 +515,9 @@
     align-items: center;
     justify-content: center;
   }
+  .mentor-navlink {
+    width: 95px;
+  }
   .mentor-text003 {
     width: 100%;
   }
@@ -552,10 +555,12 @@
     padding: 16px;
   }
   .mentor-navlink {
-    width: 16%;
+    width: 84px;
+    text-align: center;
+    padding-right: 14px;
   }
   .mentor-div {
-    top: 1200px;
+    top: 1300px;
     left: -15px;
     width: 470px;
     margin: 0px;

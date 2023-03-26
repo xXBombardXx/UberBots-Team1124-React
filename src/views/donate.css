@@ -256,6 +256,9 @@
   .donate-icon {
     display: none;
   }
+  .donate-navlink {
+    width: 95px;
+  }
 }
 @media(max-width: 479px) {
   .donate-hero {

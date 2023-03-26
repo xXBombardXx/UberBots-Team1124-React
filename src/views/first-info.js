@@ -10,8 +10,16 @@ const FIRSTInfo = (props) => {
   return (
     <div className="firs-info-container">
       <Helmet>
-        <title>FIRST-Info - UberBots Team1124</title>
-        <meta property="og:title" content="FIRST-Info - UberBots Team1124" />
+        <title>FIRST-Info - The ÜberBots</title>
+        <meta
+          name="description"
+          content="The official website of team 1124, the ÜberBots"
+        />
+        <meta property="og:title" content="FIRST-Info - The ÜberBots" />
+        <meta
+          property="og:description"
+          content="The official website of team 1124, the ÜberBots"
+        />
       </Helmet>
       <div className="firs-info-hero">
         <header data-role="Header" className="firs-info-header">

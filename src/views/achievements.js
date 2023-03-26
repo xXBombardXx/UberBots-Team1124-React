@@ -10,8 +10,16 @@ const Achievements = (props) => {
   return (
     <div className="achievements-container">
       <Helmet>
-        <title>Achievements - UberBots Team1124</title>
-        <meta property="og:title" content="Achievements - UberBots Team1124" />
+        <title>Achievements - The ÜberBots</title>
+        <meta
+          name="description"
+          content="The official website of team 1124, the ÜberBots"
+        />
+        <meta property="og:title" content="Achievements - The ÜberBots" />
+        <meta
+          property="og:description"
+          content="The official website of team 1124, the ÜberBots"
+        />
       </Helmet>
       <div className="achievements-hero">
         <header data-role="Header" className="achievements-header">

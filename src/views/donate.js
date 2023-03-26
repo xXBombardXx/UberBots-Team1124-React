@@ -10,8 +10,16 @@ const Donate = (props) => {
   return (
     <div className="donate-container">
       <Helmet>
-        <title>Donate - UberBots Team1124</title>
-        <meta property="og:title" content="Donate - UberBots Team1124" />
+        <title>Donate - The ÜberBots</title>
+        <meta
+          name="description"
+          content="The official website of team 1124, the ÜberBots"
+        />
+        <meta property="og:title" content="Donate - The ÜberBots" />
+        <meta
+          property="og:description"
+          content="The official website of team 1124, the ÜberBots"
+        />
       </Helmet>
       <div className="donate-hero">
         <header data-role="Header" className="donate-header">

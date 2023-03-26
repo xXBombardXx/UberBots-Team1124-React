@@ -9,8 +9,16 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>UberBots Team1124</title>
-        <meta property="og:title" content="UberBots Team1124" />
+        <title>The ÜberBots</title>
+        <meta
+          name="description"
+          content="The official website of team 1124, the ÜberBots"
+        />
+        <meta property="og:title" content="The ÜberBots" />
+        <meta
+          property="og:description"
+          content="The official website of team 1124, the ÜberBots"
+        />
       </Helmet>
       <div data-role="Header" className="home-navbar-container">
         <img

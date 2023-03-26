@@ -11,8 +11,16 @@ const Mentor = (props) => {
   return (
     <div className="mentor-container">
       <Helmet>
-        <title>Mentor - UberBots Team1124</title>
-        <meta property="og:title" content="Mentor - UberBots Team1124" />
+        <title>Mentor - The ÜberBots</title>
+        <meta
+          name="description"
+          content="The official website of team 1124, the ÜberBots"
+        />
+        <meta property="og:title" content="Mentor - The ÜberBots" />
+        <meta
+          property="og:description"
+          content="The official website of team 1124, the ÜberBots"
+        />
       </Helmet>
       <div className="mentor-hero">
         <header data-role="Header" className="mentor-header">

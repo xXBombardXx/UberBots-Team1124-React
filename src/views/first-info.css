@@ -337,6 +337,9 @@
     display: none;
     position: absolute;
   }
+  .firs-info-navlink {
+    width: 95px;
+  }
   .firs-info-text07 {
     width: 100%;
   }
@@ -363,11 +366,12 @@
   }
   .firs-info-heading {
     color: rgb(0, 0, 0);
-    width: 186px;
-    height: 21px;
-    font-size: 28px;
+    width: 243px;
+    height: auto;
+    font-size: 48px;
     text-align: center;
     margin-right: var(--dl-space-space-unit);
+    text-transform: capitalize;
   }
   .firs-info-text {
     color: white;

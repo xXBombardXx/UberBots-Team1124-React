@@ -216,6 +216,9 @@
   .achievements-btn-group {
     display: none;
   }
+  .achievements-navlink {
+    width: 95px;
+  }
 }
 @media(max-width: 479px) {
   .achievements-container {
@@ -247,12 +250,12 @@
     padding: 16px;
   }
   .achievements-navlink {
-    top: 20px;
-    right: 0px;
-    width: 20%;
-    height: 5%;
+    top: 48px;
+    right: 49px;
+    width: 84px;
+    height: auto;
     margin: auto;
-    font-size: 10px;
+    font-size: 18px;
     text-align: center;
     font-family: Georgia;
     text-decoration: none;
