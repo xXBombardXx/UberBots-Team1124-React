@@ -8,11 +8,13 @@
   justify-content: center;
 }
 .sponsors-hero {
+  flex: 2;
   width: 100%;
-  height: 1030px;
+  height: auto;
   display: flex;
   padding: 48px;
   position: relative;
+  align-self: stretch;
   min-height: 80vh;
   align-items: flex-start;
   padding-right: 48px;
@@ -565,6 +567,12 @@
   .sponsors-text033 {
     top: 118%;
   }
+  .sponsors-text044 {
+    height: auto;
+  }
+  .sponsors-text079 {
+    top: 60%;
+  }
   .sponsors-text080 {
     top: 98%;
   }
@@ -580,11 +588,11 @@
     left: 48px;
   }
   .sponsors-navlink3 {
-    top: 67%;
+    top: 68%;
     width: 80%;
   }
   .sponsors-navlink4 {
-    top: 62%;
+    top: 63%;
     width: 80%;
   }
   .sponsors-text089 {
@@ -594,14 +602,16 @@
 @media(max-width: 479px) {
   .sponsors-hero {
     height: var(--dl-size-size-maxcontent);
+    margin-top: 0px;
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 32px;
   }
   .sponsors-header {
-    height: 15%;
+    height: 150px;
     padding: var(--dl-space-space-unit);
+    align-self: center;
     margin-left: -20px;
   }
   .sponsors-text {
@@ -613,20 +623,23 @@
     padding: 16px;
   }
   .sponsors-navlink {
-    top: 74%;
+    top: 91%;
     width: 80%;
   }
   .sponsors-text003 {
-    top: 118%;
+    top: 172%;
+    bottom: 0px;
+    height: 20%;
+    margin: auto;
   }
   .sponsors-text014 {
-    top: 107%;
+    top: 143.75%;
   }
   .sponsors-text024 {
-    top: 85%;
+    top: 105%;
   }
   .sponsors-text033 {
-    top: 96%;
+    top: 123%;
   }
   .sponsors-navlink1 {
     top: 48px;
@@ -678,32 +691,32 @@
     font-weight: 400;
   }
   .sponsors-text079 {
-    top: 47%;
+    top: 61%;
     left: 0px;
   }
   .sponsors-text080 {
-    top: 80%;
+    top: 100%;
   }
   .sponsors-navlink2 {
-    top: 70%;
+    top: 86%;
     width: 80%;
   }
   .sponsors-text081 {
-    top: 65%;
+    top: 80%;
     left: 0px;
   }
   .sponsors-text082 {
-    top: 60%;
+    top: 75%;
   }
   .sponsors-navlink3 {
-    top: 54%;
+    top: 70%;
     width: 80%;
   }
   .sponsors-navlink4 {
-    top: 50%;
+    top: 65%;
     width: 80%;
   }
   .sponsors-text089 {
-    top: 129%;
+    top: 186%;
   }
 }
