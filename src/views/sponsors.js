@@ -154,7 +154,7 @@ const Sponsors = (props) => {
               Why Sponsor?                                                     
                                                                                
                                                                                
-                                 
+                             
             </span>
             <br></br>
             <span className="sponsors-text048">

@@ -382,6 +382,9 @@
   font-weight: 700;
 }
 @media(max-width: 1200px) {
+  .sponsors-hero {
+    flex: 1;
+  }
   .sponsors-navlink {
     top: 84%;
     width: 30%;
