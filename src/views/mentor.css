@@ -27,7 +27,7 @@
   padding-bottom: 32px;
   background-size: cover;
   justify-content: space-between;
-  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 100.00%,rgba(0, 0, 0, 0.3) 100.00%),linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1500w.jpeg");
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 100.00%,rgba(0, 0, 0, 0.3) 100.00%),linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1800w.jpeg");
   background-position: center;
 }
 .mentor-nav {
@@ -313,6 +313,8 @@
     padding-right: 32px;
   }
   .mentor-header {
+    width: 120%;
+    margin-left: -50px;
     padding-left: 32px;
     padding-right: 32px;
   }
@@ -392,8 +394,9 @@
     padding-bottom: 32px;
   }
   .mentor-header {
-    height: 20%;
+    height: 150px;
     padding: var(--dl-space-space-unit);
+    margin-top: -35px;
     margin-left: -10px;
   }
   .mentor-text {

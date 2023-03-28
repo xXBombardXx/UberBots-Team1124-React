@@ -601,7 +601,7 @@
 }
 @media(max-width: 479px) {
   .sponsors-hero {
-    height: var(--dl-size-size-maxcontent);
+    height: auto;
     margin-top: 0px;
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
@@ -609,10 +609,10 @@
     padding-bottom: 32px;
   }
   .sponsors-header {
-    height: 150px;
+    height: 184px;
     padding: var(--dl-space-space-unit);
     align-self: center;
-    margin-left: -20px;
+    margin-left: 0px;
   }
   .sponsors-text {
     width: 220px;
@@ -627,10 +627,8 @@
     width: 80%;
   }
   .sponsors-text003 {
-    top: 172%;
-    bottom: 0px;
-    height: 20%;
-    margin: auto;
+    top: 165%;
+    height: auto;
   }
   .sponsors-text014 {
     top: 143.75%;
