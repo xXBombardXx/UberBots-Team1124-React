@@ -84,7 +84,7 @@ const Home = (props) => {
                     data-thq="thq-dropdown-toggle"
                     className="home-dropdown-toggle2"
                   >
-                    <Link to="/sponsors" className="home-navlink01">
+                    <Link to="/sponsor-us" className="home-navlink01">
                       Sponsor
                     </Link>
                   </div>

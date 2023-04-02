@@ -21,7 +21,7 @@ const SponsorUs = (props) => {
         />
       </Helmet>
       <div className="sponsor-us-banner">
-        <h1 className="sponsor-us-text">Sponsors</h1>
+        <h1 className="sponsor-us-text">Sponsor Us</h1>
       </div>
       <div className="sponsor-us-container1">
         <div className="sponsor-us-container2">

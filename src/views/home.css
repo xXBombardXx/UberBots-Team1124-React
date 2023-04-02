@@ -929,7 +929,7 @@
     justify-content: center;
   }
   .home-icon {
-    fill: #D9D9D9;
+    fill: var(--dl-color-gray-black);
     right: -1px;
     width: 27px;
     bottom: -7px;
