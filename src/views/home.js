@@ -37,7 +37,7 @@ const Home = (props) => {
               <Link to="/mentor" className="home-link Anchor">
                 Mentor
               </Link>
-              <Link to="/sponsors2" className="home-link1 Anchor">
+              <Link to="/sponsor-us" className="home-link1 Anchor">
                 <span>Spons</span>
                 <span>or Us</span>
               </Link>
@@ -338,7 +338,7 @@ const Home = (props) => {
                 Become a mentor
               </Link>
             </div>
-            <Link to="/sponsors2" className="home-navlink08 button">
+            <Link to="/sponsor-us" className="home-navlink08 button">
               Become a sponsor
             </Link>
           </div>
