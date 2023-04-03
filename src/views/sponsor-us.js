@@ -49,6 +49,9 @@ const SponsorUs = (props) => {
         <Link to="/mentor" className="sponsor-us-navlink2 button">
           Mentor Us
         </Link>
+        <Link to="/contact-us" className="sponsor-us-navlink3 button">
+          Contact us for other opportunities
+        </Link>
       </div>
       <h1 className="sponsor-us-text10">Sponsor Levels</h1>
       <span className="sponsor-us-text11">
