@@ -129,8 +129,8 @@
   border-width: 2px;
 }
 .firs-info-navlink {
-  top: 48px;
-  right: 48px;
+  top: 0px;
+  right: 0px;
   width: 13%;
   height: 49px;
   position: absolute;
@@ -369,6 +369,7 @@
     width: 243px;
     height: auto;
     font-size: 48px;
+    align-self: center;
     text-align: center;
     margin-right: var(--dl-space-space-unit);
     text-transform: capitalize;
