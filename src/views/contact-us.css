@@ -33,7 +33,7 @@
   padding-bottom: 32px;
   background-size: cover;
   justify-content: space-between;
-  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 100.00%,rgba(0, 0, 0, 0.3) 100.00%),linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1800w.jpeg");
+  background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1800w.jpeg");
   background-position: center;
 }
 .contact-us-nav {
@@ -112,10 +112,12 @@
   height: 16px;
 }
 .contact-us-navlink {
-  top: 48px;
-  right: 48px;
+  top: 0px;
+  right: 0px;
+  width: 13%;
   position: absolute;
   align-self: flex-end;
+  text-align: center;
   font-family: Georgia;
   border-color: #ff0000;
   border-width: 2px;
@@ -263,6 +265,9 @@
   }
   .contact-us-mobile-menu {
     padding: 16px;
+  }
+  .contact-us-navlink {
+    width: auto;
   }
   .contact-us-text04 {
     font-family: Georgia;

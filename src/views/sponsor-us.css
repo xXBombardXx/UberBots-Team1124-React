@@ -29,6 +29,19 @@
   text-align: center;
   margin-bottom: var(--dl-space-space-unit);
 }
+.sponsor-us-navlink {
+  top: 0px;
+  right: 0px;
+  width: 13%;
+  position: absolute;
+  align-self: flex-end;
+  text-align: center;
+  font-family: Georgia;
+  border-color: #ff0000;
+  border-width: 2px;
+  text-decoration: none;
+  background-color: yellow;
+}
 .sponsor-us-text01 {
   font-size: 2em;
   align-self: flex-start;
@@ -60,7 +73,7 @@
   margin-right: 2%;
   justify-content: flex-start;
 }
-.sponsor-us-navlink {
+.sponsor-us-navlink1 {
   flex: auto;
   font-style: normal;
   text-align: center;
@@ -70,7 +83,7 @@
   text-decoration: none;
   background-color: yellow;
 }
-.sponsor-us-navlink1 {
+.sponsor-us-navlink2 {
   flex: auto;
   font-style: normal;
   text-align: center;
@@ -230,6 +243,9 @@
     padding-left: 32px;
     padding-right: 32px;
   }
+  .sponsor-us-navlink {
+    width: 95px;
+  }
   .sponsor-us-text01 {
     align-self: flex-start;
   }
@@ -258,6 +274,18 @@
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: 48px;
+  }
+  .sponsor-us-navlink {
+    top: 0px;
+    right: 0px;
+    width: 84px;
+    height: auto;
+    margin: auto;
+    font-size: 18px;
+    text-align: center;
+    font-family: Georgia;
+    text-decoration: none;
+    background-color: yellow;
   }
   .sponsor-us-text01 {
     align-self: flex-start;

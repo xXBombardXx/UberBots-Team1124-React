@@ -33,7 +33,7 @@
   padding-bottom: 32px;
   background-size: cover;
   justify-content: space-between;
-  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 100.00%,rgba(0, 0, 0, 0.3) 100.00%),linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1700w.jpeg");
+  background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1700w.jpeg");
   background-position: center;
 }
 .achievements-nav {
@@ -105,8 +105,8 @@
   height: 16px;
 }
 .achievements-navlink {
-  top: 48px;
-  right: 48px;
+  top: 0px;
+  right: 0px;
   width: 13%;
   position: absolute;
   align-self: flex-end;
@@ -180,6 +180,10 @@
   border-width: 3px;
 }
 @media(max-width: 1200px) {
+  .achievements-navlink {
+    top: 0px;
+    right: 0px;
+  }
   .achievements-text03 {
     width: 60%;
   }
@@ -250,8 +254,8 @@
     padding: 16px;
   }
   .achievements-navlink {
-    top: 48px;
-    right: 49px;
+    top: 0px;
+    right: 0px;
     width: 84px;
     height: auto;
     margin: auto;

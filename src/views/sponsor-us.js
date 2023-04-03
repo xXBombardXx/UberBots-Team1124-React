@@ -22,6 +22,9 @@ const SponsorUs = (props) => {
       </Helmet>
       <div className="sponsor-us-banner">
         <h1 className="sponsor-us-text">Sponsor Us</h1>
+        <Link to="/" className="sponsor-us-navlink button">
+          Back
+        </Link>
       </div>
       <span className="sponsor-us-text01">Why Sponsor?</span>
       <span className="sponsor-us-text02">
@@ -40,10 +43,10 @@ const SponsorUs = (props) => {
         </span>
       </span>
       <div className="sponsor-us-container1">
-        <Link to="/donate" className="sponsor-us-navlink button">
+        <Link to="/donate" className="sponsor-us-navlink1 button">
           Donate Money or Items
         </Link>
-        <Link to="/mentor" className="sponsor-us-navlink1 button">
+        <Link to="/mentor" className="sponsor-us-navlink2 button">
           Mentor Us
         </Link>
       </div>
