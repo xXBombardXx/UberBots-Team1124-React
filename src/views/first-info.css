@@ -351,6 +351,8 @@
 }
 @media(max-width: 479px) {
   .firs-info-hero {
+    flex: initial;
+    height: 1030px;
     padding-top: 32px;
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
