@@ -251,6 +251,20 @@ const Achievements = (props) => {
             <span> Team Spirit Award sponsored by FCA Foundation</span>
             <br></br>
             <br></br>
+            <span>- </span>
+            <span className="achievements-text66">
+              2023:
+              <span
+                dangerouslySetInnerHTML={{
+                  __html: ' ',
+                }}
+              />
+            </span>
+            <span className="achievements-text67">
+              Semi-finalist dean&apos;s award winner
+            </span>
+            <br></br>
+            <br></br>
           </span>
         </div>
         <img
