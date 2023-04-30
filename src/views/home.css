@@ -5,6 +5,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
+  background-color: #eae2b7;
 }
 .home-navbar-container {
   top: 0;
@@ -337,7 +338,7 @@
   padding-bottom: var(--dl-space-space-tenunits);
   background-size: cover;
   justify-content: center;
-  background-image: url("/playground_assets/black-transparent-gradient-1500w.png"),url("/playground_assets/uberbots%20cropped-min-1500w.jpg");
+  background-image: url("/playground_assets/black-transparent-gradient-1500w.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -479,6 +480,7 @@
 }
 .home-navlink05 {
   text-decoration: none;
+  background-color: #fcbf49;
 }
 .home-image3 {
   width: auto;
@@ -564,7 +566,7 @@
   border-color: #ff0000;
   border-width: 2px;
   text-decoration: none;
-  background-color: yellow;
+  background-color: #fcbf49;
 }
 .home-text30 {
   text-decoration: none;
@@ -648,7 +650,7 @@
   border-width: 2px;
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
-  background-color: yellow;
+  background-color: #fcbf49;
 }
 .home-navlink08 {
   border-color: #ff0000;
@@ -656,13 +658,13 @@
   margin-bottom: var(--dl-space-space-unit);
   padding-bottom: .5rem;
   text-decoration: none;
-  background-color: yellow;
+  background-color: #fcbf49;
 }
 .home-navlink09 {
   border-color: #ff0000;
   border-width: 2px;
   text-decoration: none;
-  background-color: yellow;
+  background-color: #fcbf49;
 }
 .home-image5 {
   width: auto;

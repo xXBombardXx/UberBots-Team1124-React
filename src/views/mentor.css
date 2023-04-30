@@ -6,6 +6,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  background-color: #eae2b7;
 }
 .mentor-hero {
   width: 100%;
@@ -15,7 +16,7 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
-  background-color: white;
+  background-color: #eae2b7;
 }
 .mentor-header {
   width: 100%;
@@ -27,7 +28,7 @@
   padding-bottom: 32px;
   background-size: cover;
   justify-content: space-between;
-  background-image: linear-gradient(90deg, rgb(192, 36, 37) 0.00%,rgba(240, 203, 53, 0.53) 100.00%),url("/playground_assets/uberbotsimage5-min-1800w.jpeg");
+  background-image: linear-gradient(90deg, rgb(214, 40, 40) 2.00%,rgba(252, 191, 73, 0.75) 52.00%,rgba(0, 48, 73, 0.8) 100.00%),url("/playground_assets/uberbotsimage5-min-1800w.jpeg");
   background-position: center;
 }
 .mentor-nav {
@@ -119,7 +120,7 @@
   border-color: #ff0000;
   border-width: 2px;
   text-decoration: none;
-  background-color: yellow;
+  background-color: #fcbf49;
 }
 .mentor-container2 {
   flex: 0 0 auto;
@@ -129,6 +130,7 @@
   position: relative;
   align-items: center;
   justify-content: flex-start;
+  background-color: #eae2b7;
 }
 .mentor-text03 {
   width: 50%;

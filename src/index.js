@@ -9,7 +9,6 @@ import Donate from './views/donate'
 import Home from './views/home'
 import Mentor from './views/mentor'
 import SponsorUs from './views/sponsor-us'
-import Sponsors from './views/sponsors'
 import FIRSTInfo from './views/first-info'
 
 const App = () => {
@@ -22,7 +21,6 @@ const App = () => {
         <Route component={Home} exact path="/" />
         <Route component={Mentor} exact path="/mentor" />
         <Route component={SponsorUs} exact path="/sponsor-us" />
-        <Route component={Sponsors} exact path="/sponsors" />
         <Route component={FIRSTInfo} exact path="/first-info" />
       </div>
     </Router>
