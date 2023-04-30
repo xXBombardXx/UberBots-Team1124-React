@@ -163,7 +163,7 @@ const Home = (props) => {
       <div id="resources" className="home-hero">
         <div className="home-content-container">
           <div className="home-hero-text">
-            <h1 className="home-heading">ÜberBots</h1>
+            <h1 className="home-heading">Überbots</h1>
             <span className="home-text06">
               <span className="home-text07">
                 FIRST
