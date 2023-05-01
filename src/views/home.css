@@ -363,7 +363,7 @@
   flex-direction: column;
 }
 .home-heading {
-  color: red;
+  color: #ae2012;
   width: 537px;
   height: 86px;
   font-size: 80px;
@@ -374,7 +374,7 @@
   margin-bottom: var(--dl-space-space-fiveunits);
 }
 .home-text06 {
-  color: yellow;
+  color: #fcbf49;
   font-weight: 700;
 }
 .home-text07 {
