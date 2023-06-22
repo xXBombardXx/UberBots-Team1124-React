@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import DangerousHTML from 'dangerous-html/react'
+import Script from 'dangerous-html/react'
 import { Helmet } from 'react-helmet'
 
 import NavigationLinks from '../components/navigation-links'
@@ -256,9 +256,9 @@ const Mentor = (props) => {
           </span>
         </div>
         <div className="mentor-div">
-          <DangerousHTML
+          <Script
             html={`<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVsq7_NRQz0Z45pORy-2w13vtALC37-axfuNJ5K8xK7nqjzw/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>`}
-          ></DangerousHTML>
+          ></Script>
         </div>
       </div>
     </div>

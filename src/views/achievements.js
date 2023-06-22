@@ -269,7 +269,7 @@ const Achievements = (props) => {
         </div>
         <img
           alt="image"
-          src="/playground_assets/trophycasecropped-min-1500w.jpg"
+          src="/trophycasecropped-min-1500w.jpg"
           className="achievements-image1"
         />
       </div>

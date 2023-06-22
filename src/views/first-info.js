@@ -85,7 +85,7 @@ const FIRSTInfo = (props) => {
         </header>
         <img
           alt="image"
-          src="/playground_assets/deankamer-min-1400w.jpg"
+          src="/deankamer-min-1400w.jpg"
           loading="eager"
           className="firs-info-image1"
         />

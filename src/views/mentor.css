@@ -28,7 +28,7 @@
   padding-bottom: 32px;
   background-size: cover;
   justify-content: space-between;
-  background-image: linear-gradient(90deg, rgb(214, 40, 40) 2.00%,rgba(252, 191, 73, 0.75) 52.00%,rgba(0, 48, 73, 0.8) 100.00%),url("/playground_assets/uberbotsimage5-min-1800w.jpeg");
+  background-image: linear-gradient(90deg, rgb(214, 40, 40) 2.00%,rgba(252, 191, 73, 0.75) 52.00%,rgba(0, 48, 73, 0.8) 100.00%),url("/uberbotsimage5-min-1800w.jpeg");
   background-position: center;
 }
 .mentor-nav {

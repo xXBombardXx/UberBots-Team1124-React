@@ -23,12 +23,12 @@ const Home = (props) => {
       <div data-role="Header" className="home-navbar-container">
         <img
           alt="image"
-          src="/playground_assets/open-graph-first-logo-200h.png"
+          src="/open-graph-first-logo-200h.png"
           className="home-image"
         />
         <img
           alt="image"
-          src="/playground_assets/uberbots%20modern%20logo%20better%20size-200w.png"
+          src="/uberbots%20modern%20logo%20better%20size-200w.png"
           className="home-image1"
         />
         <div className="home-navbar">
@@ -243,16 +243,12 @@ const Home = (props) => {
         </div>
         <img
           alt="image"
-          src="/playground_assets/uberbotsimage2-1400w.jpeg"
+          src="/uberbotsimage2-1400w.jpeg"
           className="home-image3"
         />
       </div>
       <div className="home-hero2">
-        <img
-          alt="image"
-          src="/playground_assets/tj-1400w.jpg"
-          className="home-image4"
-        />
+        <img alt="image" src="/tj-1400w.jpg" className="home-image4" />
         <div className="home-container3">
           <div className="home-container4">
             <h1 className="home-text20">What we do</h1>
@@ -349,10 +345,7 @@ const Home = (props) => {
             </span>
           </Link>
         </div>
-        <img
-          src="/playground_assets/uberbotsimage3-1400w.jpeg"
-          className="home-image5"
-        />
+        <img src="/uberbotsimage3-1400w.jpeg" className="home-image5" />
       </div>
       <div className="home-section-separator"></div>
       <div className="home-section-separator1"></div>
