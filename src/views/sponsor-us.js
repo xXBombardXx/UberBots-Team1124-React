@@ -54,7 +54,7 @@ const SponsorUs = (props) => {
         </Link>
       </div>
       <img
-        src="/sponsor%20tiers%20image-800w.png"
+        src="/sponsor%20tiers%202-800w.png"
         alt="image"
         className="sponsor-us-image"
       />
