@@ -103,8 +103,8 @@
   background-color: #fcbf49;
 }
 .sponsor-us-image {
-  width: 517px;
-  height: 698px;
+  width: 50%;
+  height: 30%;
   align-self: flex-start;
   margin-top: 2%;
   object-fit: cover;
