@@ -7,7 +7,7 @@ import './home.css'
 
 const Home = (props) => {
   return (
-    <div className="home-container">
+    <header className="home-container">
       <Helmet>
         <title>The ÜberBots</title>
         <meta
@@ -378,7 +378,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-    </div>
+    </header>
   )
 }
 
