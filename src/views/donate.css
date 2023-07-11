@@ -155,30 +155,53 @@
   color: var(--dl-color-gray-500);
   font-family: Georgia;
 }
-.donate-text11 {
+.donate-text12 {
   color: var(--dl-color-gray-500);
-  font-style: italic;
+  font-family: Georgia;
+}
+.donate-text13 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+.donate-text14 {
+  color: var(--dl-color-gray-500);
   font-family: Georgia;
 }
 .donate-text15 {
-  font-family: Georgia;
-  font-weight: 700;
-}
-.donate-text18 {
-  font-family: Georgia;
-}
-.donate-text19 {
-  font-family: Georgia;
-  font-weight: 700;
-}
-.donate-text20 {
-  font-family: Georgia;
-}
-.donate-text22 {
   color: var(--dl-color-gray-500);
   font-family: Georgia;
 }
-.donate-text24 {
+.donate-text16 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+.donate-text17 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+.donate-text18 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+.donate-text22 {
+  font-family: Georgia;
+  font-weight: 700;
+}
+.donate-text25 {
+  font-family: Georgia;
+}
+.donate-text26 {
+  font-family: Georgia;
+  font-weight: 700;
+}
+.donate-text27 {
+  font-family: Georgia;
+}
+.donate-text29 {
+  color: var(--dl-color-gray-500);
+  font-family: Georgia;
+}
+.donate-text31 {
   color: var(--dl-color-gray-500);
   font-family: Georgia;
 }
@@ -199,30 +222,25 @@
     color: var(--dl-color-gray-500);
     font-family: Georgia;
   }
-  .donate-text11 {
-    color: var(--dl-color-gray-500);
-    font-style: italic;
-    font-family: Georgia;
-  }
-  .donate-text15 {
-    font-family: Georgia;
-    font-weight: 700;
-  }
-  .donate-text18 {
-    font-family: Georgia;
-  }
-  .donate-text19 {
-    font-family: Georgia;
-    font-weight: 700;
-  }
-  .donate-text20 {
-    font-family: Georgia;
-  }
   .donate-text22 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .donate-text25 {
+    font-family: Georgia;
+  }
+  .donate-text26 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .donate-text27 {
+    font-family: Georgia;
+  }
+  .donate-text29 {
     color: var(--dl-color-gray-500);
     font-family: Georgia;
   }
-  .donate-text24 {
+  .donate-text31 {
     color: var(--dl-color-gray-500);
     font-family: Georgia;
   }
@@ -312,8 +330,6 @@
     font-family: Georgia;
   }
   .donate-text11 {
-    color: var(--dl-color-gray-500);
-    font-style: italic;
     font-family: Georgia;
   }
   .donate-text12 {
@@ -327,11 +343,9 @@
   }
   .donate-text15 {
     font-family: Georgia;
-    font-weight: 700;
   }
   .donate-text16 {
     font-family: Georgia;
-    font-weight: 700;
   }
   .donate-text17 {
     font-family: Georgia;
@@ -341,23 +355,46 @@
   }
   .donate-text19 {
     font-family: Georgia;
-    font-weight: 700;
   }
   .donate-text20 {
     font-family: Georgia;
   }
   .donate-text21 {
-    color: var(--dl-color-gray-500);
     font-family: Georgia;
   }
   .donate-text22 {
-    color: var(--dl-color-gray-500);
     font-family: Georgia;
+    font-weight: 700;
   }
   .donate-text23 {
     font-family: Georgia;
+    font-weight: 700;
   }
   .donate-text24 {
+    font-family: Georgia;
+  }
+  .donate-text25 {
+    font-family: Georgia;
+  }
+  .donate-text26 {
+    font-family: Georgia;
+    font-weight: 700;
+  }
+  .donate-text27 {
+    font-family: Georgia;
+  }
+  .donate-text28 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .donate-text29 {
+    color: var(--dl-color-gray-500);
+    font-family: Georgia;
+  }
+  .donate-text30 {
+    font-family: Georgia;
+  }
+  .donate-text31 {
     color: var(--dl-color-gray-500);
     font-family: Georgia;
   }

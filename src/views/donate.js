@@ -92,25 +92,34 @@ const Donate = (props) => {
             <span className="donate-text09">
               Donate to our non-profit with a note identifying sender:
             </span>
-            <span className="donate-text10"> *</span>
-            <span className="donate-text11">
-              Currently in the process of creating one*
+            <span className="donate-text10"> </span>
+            <br className="donate-text11"></br>
+            <span className="donate-text12">
+              Non-profit name: Avon Community Robotics Inc.
             </span>
-            <br className="donate-text12"></br>
             <br className="donate-text13"></br>
-            <br className="donate-text14"></br>
-            <span className="donate-text15">Item Donations</span>
-            <br className="donate-text16"></br>
+            <span className="donate-text14">Tax ID: 87-2140811</span>
+            <br className="donate-text15"></br>
+            <span className="donate-text16">Memo: Team 1124 or Uberbots</span>
             <br className="donate-text17"></br>
-            <span className="donate-text18">-</span>
-            <span className="donate-text19"> Mailing Address:</span>
-            <span className="donate-text20"> </span>
+            <span className="donate-text18">
+              Mail Address: 3 clover ct, Avon, CT, 06001
+            </span>
+            <br className="donate-text19"></br>
+            <br className="donate-text20"></br>
             <br className="donate-text21"></br>
-            <span className="donate-text22">
+            <span className="donate-text22">Item Donations</span>
+            <br className="donate-text23"></br>
+            <br className="donate-text24"></br>
+            <span className="donate-text25">-</span>
+            <span className="donate-text26"> Mailing Address:</span>
+            <span className="donate-text27"> </span>
+            <br className="donate-text28"></br>
+            <span className="donate-text29">
               510 West Avon Road, Avon, CT 06001
             </span>
-            <br className="donate-text23"></br>
-            <span className="donate-text24">Attn: Robotics</span>
+            <br className="donate-text30"></br>
+            <span className="donate-text31">Attn: Robotics</span>
             <br></br>
           </span>
         </div>
